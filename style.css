@@ -1,210 +1,232 @@
-body{
+body {
     font-family: 'Playfair Display', serif;
-font-family: 'Poppins', sans-serif;
+    font-family: 'Poppins', sans-serif;
     margin: 0%;
-    }
-    .order-button{
-        text-decoration: none;
-        background-image: linear-gradient(ORANGE, TOMATO);
-        color: white;
-        font-weight: 700;
-        padding: 10px 40px;
-        border-radius: 5%;
-    }
-    .help-those{
-        color: white;
-        background-image: url(donate-today-main/images/poor-g0aa4816ec_1920.jpg);
-        background-repeat: no-repeat;
-        background-position: center;
-        background-size: cover;
-        position: relative;
-        height: 100vh;
-        display: flex;
-        flex-direction: column;
-        justify-content: center;
-        align-items: center;
-        margin-bottom: 100px;
-        text-align: center;
-        margin-bottom: 100px;
-        
-    }
-    .color{
-        font-size: 3em;
-    }
-    .save-earth{
-    
-        display: flex;
-        flex-direction: column;
-        justify-content: center;
-        align-items: center;
+}
 
-    }
-    .support{
-        font-size: 3em;
-        
-    }
-    .make{
-        color: gray;
-        text-align: center;
+.order-button {
+    text-decoration: none;
+    background-image: linear-gradient(ORANGE, TOMATO);
+    color: white;
+    font-weight: 700;
+    padding: 10px 40px;
+    border-radius: 5%;
+}
 
-    }
-    .all-boxes{
-        display: flex;
-        flex-direction: row;
-        justify-content: center;
-  align-items: center;
-  margin-bottom: 50px;
+.help-those {
+    color: white;
+    background-image: url(donate-today-main/images/sakib.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    position: relative;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 100px;
+    text-align: center;
+    margin-bottom: 100px;
 
-      
-        
-    }
-    .box-1{
-        width: 100px;
-        height: 100px;
-   padding: 5px;
-  margin: 20px;
-  background-color: lightgrey;
-  border-radius: 5px;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-  font-size: 2em;
-  
-    }
-    .box-2{
-        width: 100px;
-        height: 100px;
-        border: 5px solid lightcoral;
-   padding: 5px;
-  margin: 20px;
-  background-color: rgb(255, 231, 234);
-  border-radius: 3px;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-  font-size: 2em;
-  color: lightcoral;
-  
-  
-    }
-    .box-3{
-        width: 100px;
-        height: 100px;
-   padding: 5px;
-  margin: 20px;
-  background-color: lightgrey;
-  border-radius: 5px;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-  font-size: 2em;
-  
-    }
-    .box-4{
-        width: 100px;
-        height: 100px;
-   padding: 5px;
-  margin: 20px;
-  background-color: lightgrey;
-  border-radius: 5px;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-  font-size: 2em;
-  
-    }
-    .box-5{
-        width: 100px;
-        height: 100px;
-   padding: 5px;
-  margin: 20px;
-  background-color: lightgrey;
-  border-radius: 5px;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-  font-size: 2em;
-  
-    }
-    .amount{
-        display: flex;
-        flex-direction: column;
-        justify-content: center;
-        align-items: center;
-        color: grey;
-    }
-.line{
-  
+}
+
+.color {
+    font-size: 3em;
+}
+
+.save-earth {
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.support {
+    font-size: 3em;
+
+}
+
+.make {
+    color: gray;
+    text-align: center;
+
+}
+
+.all-boxes {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 50px;
+
+
+
+}
+
+.box-1 {
+    width: 100px;
+    height: 100px;
+    padding: 5px;
+    margin: 20px;
+    background-color: lightgrey;
+    border-radius: 5px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-size: 2em;
+
+}
+
+.box-2 {
+    width: 100px;
+    height: 100px;
+    border: 5px solid lightcoral;
+    padding: 5px;
+    margin: 20px;
+    background-color: rgb(255, 231, 234);
+    border-radius: 3px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-size: 2em;
+    color: lightcoral;
+
+
+}
+
+.box-3 {
+    width: 100px;
+    height: 100px;
+    padding: 5px;
+    margin: 20px;
+    background-color: lightgrey;
+    border-radius: 5px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-size: 2em;
+
+}
+
+.box-4 {
+    width: 100px;
+    height: 100px;
+    padding: 5px;
+    margin: 20px;
+    background-color: lightgrey;
+    border-radius: 5px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-size: 2em;
+
+}
+
+.box-5 {
+    width: 100px;
+    height: 100px;
+    padding: 5px;
+    margin: 20px;
+    background-color: lightgrey;
+    border-radius: 5px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-size: 2em;
+
+}
+
+.amount {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: grey;
+}
+
+.line {
+
     width: 800px;
     border: solid gray;
     margin-bottom: 30px;
 }
 
-.donat{
+.donat {
     margin-top: 100px;
     font-size: 3em;
     color: black;
 }
-.our-plan{
-    display: flex;
-        flex-direction: column;
-        justify-content: center;
-        align-items: center;
-        text-align: center;
-        color: gray;
-        margin-bottom: 50px;
-}
-.establish{
-    display: flex;
-        flex-direction: row;
-        justify-content: center;
-  align-items: center;
-  margin-bottom: 50px;
-}
-.boxxx{
-    width: 250px;
-    height: 250px;
-padding: 20px;
-padding-top: 30px;
-margin: 20px;
-background-color: rgb(226, 241, 247);
-border-radius: 10px;
 
+.our-plan {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    color: gray;
+    margin-bottom: 50px;
 }
-.icon{
-  font-size: 3em;
-}
-.boxxx-1{
-    width: 250px;
-    height: 250px;
-padding: 20px;
-padding-top: 30px;
-margin: 20px;
-background-color: rgb(255, 226, 230);
-border-radius: 10px;
-}
-.boxxx-2{
-    width: 250px;
-    height: 250px;
-padding: 20px;
-padding-top: 30px;
-margin: 20px;
-background-color: rgb(250, 250, 223);
-border-radius: 10px;
-}
-.container{
+
+.establish {
     display: flex;
     flex-direction: row;
     justify-content: center;
     align-items: center;
     margin-bottom: 50px;
 }
-.Their-lives{
+
+.boxxx {
+    width: 250px;
+    height: 250px;
+    padding: 20px;
+    padding-top: 30px;
+    margin: 20px;
+    background-color: rgb(226, 241, 247);
+    border-radius: 10px;
+
+}
+
+.icon {
+    font-size: 3em;
+}
+
+.boxxx-1 {
+    width: 250px;
+    height: 250px;
+    padding: 20px;
+    padding-top: 30px;
+    margin: 20px;
+    background-color: rgb(255, 226, 230);
+    border-radius: 10px;
+}
+
+.boxxx-2 {
+    width: 250px;
+    height: 250px;
+    padding: 20px;
+    padding-top: 30px;
+    margin: 20px;
+    background-color: rgb(250, 250, 223);
+    border-radius: 10px;
+}
+
+.container {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 50px;
+}
+
+.Their-lives {
     display: flex;
     flex-direction: row;
     margin: 50px;
@@ -213,21 +235,24 @@ border-radius: 10px;
     width: 100vw;
     margin-bottom: 50px;
 
- 
+
 
 }
 
-.Their-lives img{
-width: 50%;
+.Their-lives img {
+    width: 50%;
 }
-.texr-1{
+
+.texr-1 {
     width: 40%;
 }
-.img-1{
+
+.img-1 {
     width: 70%;
     padding-left: 200px;
 }
-.They-need{
+
+.They-need {
     display: flex;
     flex-direction: row;
     margin: 50px;
@@ -237,15 +262,137 @@ width: 50%;
     margin-bottom: 50px;
 
 }
-.texr-2{
+
+.texr-2 {
     width: 40%;
     padding-right: 200px;
 }
-.img-2{
+
+.img-2 {
     width: 70%;
-  
-    
+
+
 }
-.They-need img{
+
+.They-need img {
     width: 70%;
-    }
+}
+
+.head {
+    font-size: 3em;
+    color: black;
+}
+
+.Get-My-Updates {
+    text-align: center;
+    color: gray;
+    margin-bottom: 50px;
+}
+
+.all-input {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 150px;
+}
+
+.input-containerr {
+    height: 200px;
+    width: 700px;
+    background-color: rgb(249, 214, 220);
+
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+
+
+}
+
+.input-containerr-2 {
+    padding-top: 100px;
+    padding-left: 300px;
+}
+
+.email input,
+button {
+    font-size: 1.3em;
+    margin-top: 15px;
+    border: 1px solid lightgray;
+    padding-left: 10px;
+    border-radius: 5px;
+}
+
+.email button {
+    background-color: rgb(213, 91, 132);
+    color: whitesmoke;
+    font-weight: 700;
+    border: 0ch;
+    padding: 5px;
+}
+
+.footer {
+
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    height: 100px;
+    background-color: rgba(2, 2, 50, 0.968);
+    color: white;
+    text-align: center;
+    font-family: 'Playfair Display', serif;
+    padding-top: 20px;
+    font-size: 1.5em;
+}
+
+.signup-box {
+    width: 360px;
+    height: 620px;
+    margin: auto;
+    background-color: white;
+    border-radius: 3px;
+}
+
+form {
+    width: 300px;
+    margin-left: 20px;
+}
+
+form label {
+    display: flex;
+    margin-top: 20px;
+    font-size: 18px;
+}
+
+form input {
+    width: 100%;
+    padding: 7px;
+    border: none;
+    border: 1px solid gray;
+    border-radius: 6px;
+    outline: none;
+}
+
+input[type="button"] {
+    width: 320px;
+    height: 35px;
+    margin-top: 20px;
+    border: none;
+    background-color: lightsalmon;
+    color: white;
+    font-size: 18px;
+}
+
+
+
+.para-2 {
+    text-align: center;
+    color: white;
+    font-size: 15px;
+    margin-top: -10px;
+}
+
+.para-2 a {
+    color: #49c1a2;
+}
