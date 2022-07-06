@@ -204,3 +204,48 @@ border-radius: 10px;
     align-items: center;
     margin-bottom: 50px;
 }
+.Their-lives{
+    display: flex;
+    flex-direction: row;
+    margin: 50px;
+    padding: 50px;
+    justify-content: space-evenly;
+    width: 100vw;
+    margin-bottom: 50px;
+
+ 
+
+}
+
+.Their-lives img{
+width: 50%;
+}
+.texr-1{
+    width: 40%;
+}
+.img-1{
+    width: 70%;
+    padding-left: 200px;
+}
+.They-need{
+    display: flex;
+    flex-direction: row;
+    margin: 50px;
+    padding: 50px;
+    justify-content: space-evenly;
+    width: 100vw;
+    margin-bottom: 50px;
+
+}
+.texr-2{
+    width: 40%;
+    padding-right: 200px;
+}
+.img-2{
+    width: 70%;
+  
+    
+}
+.They-need img{
+    width: 70%;
+    }
